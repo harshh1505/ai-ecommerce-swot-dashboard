@@ -2,6 +2,8 @@
 
 AI-powered business intelligence platform for eCommerce analytics, featuring automated SWOT analysis, predictive forecasting, and competitive benchmarking.
 
+# Link to it - ai-ecommerce-swot-dashboard.vercel.app
+
 ## 🎯 Features
 
 - **Automated SWOT Analysis** - AI-powered strategic insights using Claude API
